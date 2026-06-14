@@ -1,0 +1,11 @@
+# Codex local/private state
+.codex/auth.json
+.codex/sessions/
+.codex/threads/
+.codex/memories/
+.codex/logs/
+
+# Logs and OS files
+*.log
+.DS_Store
+
